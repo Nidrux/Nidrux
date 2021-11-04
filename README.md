@@ -2,8 +2,8 @@
 
 ## MY STATS
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nidrux&show_icons=true&theme=radical" alt="Nidrux GitHub Stats" width="100%"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidrux&layout=compact&theme=radical" alt="Nidrux GitHub Stats" width="100%"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=nidrux&show_icons=true&theme=radical" alt="Nidrux GitHub Stats" width="49.9%" display="inline-block"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidrux&layout=compact&theme=radical" alt="Nidrux GitHub Stats" width="49.9%" display="inline-block"/>
 
 ## MY CODING LANGUAGES
 <code>
