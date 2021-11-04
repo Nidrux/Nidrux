@@ -1,7 +1,9 @@
 ### 👋 Hi, I’m Nidrux
 
 ## MY STATS
-![Nidrux GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidrux&show_icons=true)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=nidrux&show_icons=true&theme=radical" alt="Nidrux GitHub Stats" width="100%"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidrux&layout=compact&theme=radical" alt="Nidrux GitHub Stats" width="100%"/>
 
 ## MY CODING LANGUAGES
 <code>
